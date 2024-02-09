@@ -1,0 +1,6 @@
+{
+   "username" : "email@domain.com",
+   "password" : "password",
+   "organisation" : "Org Name",
+   "sig" : "<p>Kind regards,<br/>Name<br/></p>"
+}
