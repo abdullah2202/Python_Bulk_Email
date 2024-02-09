@@ -18,7 +18,7 @@ sig = config["sig"]
 smpt_address = "smtp.gmail.com"
 smpt_port = 465
 
-excel_data = pd.read_excel("data.xlsx")
+excel_data = pd.read_excel("test-data.xlsx")
 data = pd.DataFrame(excel_data, columns=['email','link'])
 total_rows = len(data)
 
